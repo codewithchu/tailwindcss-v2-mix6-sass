@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import './component/btn.scss';
+
+.circle {
+	mix-blend-mode: multiply;
+}
