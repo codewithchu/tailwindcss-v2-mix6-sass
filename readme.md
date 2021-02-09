@@ -4,9 +4,11 @@ Source Code for Setup and Install Tailwindcss v2.0 with Laravel Mix 6 and Sass <
 
 Mix is a wrapper that simplifies setting up webpack. We'll take a look at installing Tailwind Css v2.0 with Sass. Have the ability to write Vanilla Javascript with ES6 Syntax and have it compile for the browser to understand. All with Hot live reloading with browserSync.
 
+This will provide a base for developing website/apps using tailwind, sass and vanilla js when you're not using a frontend framework.
+
 ## Install
 
-clone repo to your project directory.
+Clone repo to your project directory.
 
 ```sh
 npm install
@@ -27,7 +29,7 @@ npm run prod
 
 - [Website](https://www.arthurchu.ca 'Web Development Tutorials, Tips & Tricks | CodeWithChu Website')
 - [YouTube](https://www.youtube.com/channel/UCSyosm-WcUPT4LnUIIdqSCw 'CodeWithChu Youtube Channel')
-- [Instagram](https://www.instagram.com/codewithchu/ 'Follow CodeWithChu on Instagram')
+- [Instagram](https://www.instagram.com/codewithchu 'Follow CodeWithChu on Instagram')
 - [Twitter](https://twitter.com/codewithchu 'Follow CodeWithChu on Twitter')
 - [Facebook](https://www.facebook.com/codewithchu 'Like CodeWithChu on Facebook')
 - [Codepen](https://codepen.io/codewithchu 'Follow CodeWithChu on Codepen')
